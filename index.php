@@ -7,6 +7,8 @@
     <link rel="stylesheet" type="text/css" href="estilo.css">
     <title>Login</title>
 </head>
+
+fsdfdf
 <body>
     <!--traemos el header-->
     <?php
