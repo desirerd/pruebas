@@ -12,7 +12,7 @@
       require 'header.php'
     ?>
     <div id="container">
-        <h1>Lofgfdgssdfggin</h1>
+        <h1>Login mimi</h1>
         <span>or <a href="registro.php">Registrar</a></span>
         <form action="database.php" method="post">
             <!-- Username -->
